@@ -1,4 +1,4 @@
-function! clearallbutmatches#clearallbutmatches() range
+function! ClearAllButMatches#ClearAllButMatches() range
     let is_whole_file = a:firstline == 1 && a:lastline == line('$')
     let old_c = @c
     let @c=""
