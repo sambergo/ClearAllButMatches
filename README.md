@@ -1,4 +1,4 @@
-# ClearAllButMatches.vim
+# ClearAllButMatches
 
 Adds `:ClearAllButMatches` command which removes everything except what matches your last "/" or "?".
 
